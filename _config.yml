@@ -53,9 +53,11 @@ navigationLinks:
 bottomNavigationLinks:
 # - {link: "https://ti.to/hamakor/core-cpp-2019", text: "Buy Tickets"}
 # - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Become a Sponsor"}
+ - {link: "https://cfs.corecpp.org/", text: "Submit Your Talk"}
 rightNavigationButtons:
 # - {link: "https://ti.to/hamakor/core-cpp-2019", text: "Buy Tickets"}
 # - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Become a Sponsor"}
+ - {link: "https://cfs.corecpp.org/", text: "Submit Your Talk"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -66,7 +68,8 @@ typeoutFallback: "Conference"
 heroButtons:
 # - {link: "https://ti.to/hamakor/core-cpp-2019", text: "Buy Tickets"}
 # - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Sponsor Us"}
-
+ - {link: "https://cfs.corecpp.org/", text: "Submit Your Talk"}
+ 
 # About Block
 aboutTitle: "About Core C++ 2020"
 aboutBlock:
