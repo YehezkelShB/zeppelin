@@ -68,6 +68,7 @@ typeoutFallback: "Conference"
 heroButtons:
 # - {link: "https://ti.to/hamakor/core-cpp-2019", text: "Buy Tickets"}
 # - {link: "/assets/CoreCpp2019_CallForSponsors.pdf", text: "Sponsor Us"}
+ - {link: "https://corecpp.org/assets/CoreCpp2020_CallForSpeakers.pdf", text: "Call For Speakers (PDF)"}
  - {link: "https://cfs.corecpp.org/", text: "Submit Your Talk"}
  
 # About Block
